@@ -1,0 +1,4 @@
+test1 <- 0
+WHILE test1 < 5
+    INCREMENT test1
+    OUTPUT "hello"
